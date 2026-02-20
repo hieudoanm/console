@@ -1,17 +1,17 @@
 {
-  "name": "@console/workspaces",
+  "name": "@browser/workspaces",
   "version": "0.0.1",
-  "description": "Console",
+  "description": "Browser SDK",
   "keywords": [
-    "console"
+    "browser"
   ],
-  "homepage": "https://hieudoanm.github.io/console",
+  "homepage": "https://hieudoanm.github.io/browser",
   "bugs": {
-    "url": "https://github.com/hieudoanm/console/issues"
+    "url": "https://github.com/hieudoanm/browser/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hieudoanm/console.git"
+    "url": "git+ssh://git@github.com/hieudoanm/browser.git"
   },
   "license": "GPL-3.0",
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
